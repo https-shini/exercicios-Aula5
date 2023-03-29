@@ -10,6 +10,7 @@
 ## ☆ Hospedagem
 
 - Acesse o link abaixo e veja meu código hospedado online.<br>
+https://https-shini.github.io/exercicios-Aula5/
 
 ## ☆ Tecnologias
 
@@ -21,11 +22,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O código possui uma 'home' onde você pode acessar todos os exercícios que estão relacionados ao desenvolvimento web.
 
-- O primeiro código é um exemplo simples de como criar um paragrafo e usar o CSS dentro do próprio HTML para estilizá-los separadamente.
+- O primeiro código é uma galeria de fotos para animais totalmente estilizada com CSS.
 
-- O segundo código é um exemplo simples de como criar um paragrafo e usar o CSS dentro do próprio HTML para estilizá-los.
+- O segundo código é uma página de café utilizando os comandos HTML e formatação CSS.
 
-- O terceiro código é um exemplo simples de como criar um paragrafo e usar o CSS e linkar com o HTML para estilizá-lo.
+- O terceiro código é uma tela de login estilizada no CSS.
 
 ## ☆ Licença
 
